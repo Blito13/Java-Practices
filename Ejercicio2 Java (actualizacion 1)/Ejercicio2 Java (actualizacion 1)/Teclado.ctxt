@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Teclado
+comment1.params=
+comment1.target=Teclado()
+comment10.params=delim
+comment10.target=java.lang.String\ getNextToken(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ leerPalabra()
+comment3.params=
+comment3.target=java.lang.String\ leerLinea()
+comment4.params=
+comment4.target=int\ leerEntero()
+comment5.params=
+comment5.target=long\ leerEnteroLargo()
+comment6.params=
+comment6.target=float\ leerFloat()
+comment7.params=
+comment7.target=double\ leerDouble()
+comment8.params=
+comment8.target=char\ leerCaracter()
+comment9.params=
+comment9.target=java.lang.String\ getNextToken()
+numComments=11

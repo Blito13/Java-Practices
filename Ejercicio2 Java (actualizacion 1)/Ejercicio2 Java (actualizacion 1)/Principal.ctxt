@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Principal
+comment0.text=\ Recoredemos\ que\ la\ clase\ Principal\ es\ el\ punto\r\n\ de\ entrada\ a\ la\ aplicacion,\ es\ decir\ donde\ empieza\r\n\ a\ correr\ el\ programa\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
