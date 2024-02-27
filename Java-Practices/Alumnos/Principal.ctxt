@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Principal
+comment0.text=\ La\ clase\ Principal\ es\ la\ clase\ que\ ejecutara\ un\ metodo\ llamado\ main\r\n\ que\ es\ punto\ inicial\ de\ nuestra\ aplicacion,\ es\ decir\ a\ partir\ de\ donde\r\n\ empieza\ a\ ejecutar\ las\ acciones.\ No\ es\ una\ clase\ de\ entidad\ (es\ decir\ \r\n\ una\ clase\ que\ represente\ uno\ de\ los\ elementos\ que\ forman\ parte\ de\ mi\ problema)\r\n\ por\ lo\ tanto\ no\ tiene\ atributos\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\ El\ metodo\ mas\ importante\ de\ la\ clase\ Principal\ (y\ muchas\ veces\ el\ unico)\r\n\ es\ el\ metodo\ main\ el\ cual\ se\ ejecuta\ al\ iniciar\ el\ programa\r\n
+numComments=2

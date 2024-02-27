@@ -1,0 +1,63 @@
+Consultas
+1. Nombre y Apellido de todos los Vendedores ordenados alfabéticamente
+2. Mostrar Todos los datos de los Vendedores y la Ciudad de cada uno de
+ellos
+3. Vendedores de Córdoba
+4. Vendedores de Rio III que cobran más de 3000 pesos
+5. Ventas del Segundo Semestre
+6. Vendedores que no tienen teléfono
+7. Ventas de ”Mario Lopez”
+8. Mostrar todos los datos de las Ventas incluido el monto total de la misma
+9. Ventas de “Galleta x 100 gr”, ordenadas por cantidad de manera
+descendiente
+10.Ventas realizadas por vendedores de Córdoba
+11.Ciudades que empiezan con la palabra Rio
+12.Vendedores cuyo apellido comienza con P
+13.Ventas del Segundo Semestre de Galletas solo en aquellos casos que la
+cantidad vendida sea mayor a 500, ordenar por Vendedor y Fecha
+14.Mostrar todos los Vendedores que sean de Cordoba o Carlos Paz
+15.Mostrar todas las ventas donde la cantidad sea mayor a 800 o el precio
+unitario del producto sea menor a 5
+Consultas Sumarias
+1. precio promedio, precio más caro, más barato de los productos
+2. Cantidad de veces que se vendieron galletas
+3. suma de sueldos, sueldo más bajo, más alto, sueldo promedio de los
+empleados que empiezan con P
+4. Cantidad de ventas de los vendedores de Cordoba
+5. sueldo promedio, mas alto y más bajo por ciudad
+6. cantidad de ventas y lo facturado por vendedor
+7. mayor compra de cada cliente
+8. Compra promedio de cada cliente a cada vendedor
+9. cantidad vendida de cada producto por cada vendedor
+10. Cantidad de veces que cada cliente le compro helado a cada vendedor
+Consultas sumarias con criterios de grupo
+1. Cantidad de ventas por vendedor solo para aquellos vendedores que
+vendieron más de 100 veces
+2. Ciudades con mas de 5 vendedores que cobren más de 4000$
+3
+3. Clientes cuyas compras promedio sean mayor a 6000$
+4. Clientes que hayan tenido más de 100 compras superiores a 10 mil pesos
+5. Ciudades que facturaron más que Carlos Paz
+6. Vendedores cuya facturaron promedio es mayor al promedio general
+Sentencias de Inserción
+1. La empresa La vaquillona Rebelde es ahora nuestro cliente y se le asigno el
+código 11, el teléfono para contactarlo es 4568877
+2. Ahora vendemos Helado de Vainilla x 1 kg y se vende a 15 $
+3. Contratamos al sr Roque Funes dni 26789879, quien vive en Rio III, tiene
+teléfono 4569887 y cobrara 3798
+4. El dia de hoy, Roque Funes le vendió 789 unidades de Helado de Vainilla a
+La Vaquillona Rebelde y se le emitio la factura A 0001-0000476388
+Sentencias de Actualización
+1. El vendedor con dni 16419684 cambio su teléfono al 465897
+2. La Galleta x 1 Kg ahora cuesta 8$
+3. Todos los vendedores tuvieron un aumento del 15%
+4. Todas las Galletas subieron 0.50$ y todos los Helados 1.50$
+5. Todos los empleados de Cordoba tuvieron un aumento de $350
+6. Todos los vendedores de Unquillo se mudaron a Rio Ceballos
+7. Ahora el sueldo mínimo es de $2500
+Sentencias de Eliminación
+1. Eliminar la ciudad Unquillo (si tiene empleados se mudan a Rio Ceballos)
+2. La venta de la factura A 0001-0000456686 se anulo
+3. El Bombón dejara de ser cliente por falta de pago
+4. La vendedora Debora Campos dni: 16689564 fue despedida
+5. No tenemos más empleados de Cosquin
